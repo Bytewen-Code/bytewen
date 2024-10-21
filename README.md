@@ -14,7 +14,7 @@ Bytewen is a minimalistic, efficient, and powerful programming language designed
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/bytewen.git
+   git clone https://github.com/Bytewen-Code/bytewen.git
    ```
 
 2. **Run your first Bytewen program:**
