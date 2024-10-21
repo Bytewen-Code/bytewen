@@ -1,0 +1,14 @@
+
+x = 10
+y = 5
+
+possibility add(x, y) {
+    output "Sum: " + (x + y)
+}
+
+possibility subtract(x, y) {
+    output "Difference: " + (x - y)
+}
+
+call add(x, y)
+call subtract(x, y)
