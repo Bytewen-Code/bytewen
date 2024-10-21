@@ -41,7 +41,7 @@ Bytewen is a minimalistic, efficient, and powerful programming language designed
 
 ## Documentation
 
-You can find the complete documentation for Bytewen at [Bytewen Documentation](https://your-domain.com/docs).
+You can find the complete documentation for Bytewen at [Bytewen Documentation](https://bytewen.pages.dev/docs).
 
 ## Contributing
 
